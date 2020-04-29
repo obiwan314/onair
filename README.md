@@ -7,9 +7,9 @@ My version uses an [Adafruit Feather Huzza](https://www.adafruit.com/product/282
 It also uses a [500mAh LiPo Battery](https://www.adafruit.com/product/1578) because there never seems to be an outlet where I want to hang this sign. This part is optional if you plan to plug in USB Power.
 It also requires a [Neopixel Strip](https://www.adafruit.com/product/1376?length=1)
 
-![Finished Product](https://github.com/obiwan314/markdown-here/raw/master/images/IMG_6416.jpg "Picture of Finished product")
-![Open Case](https://github.com/obiwan314/markdown-here/raw/master/images/IMG_6405.jpg "Inside view showing wiring.")
-![Inside Front View](https://github.com/obiwan314/markdown-here/raw/master/images/IMG_6406.jpg "Inside front of case showing red plastic filter")
+![Finished Product](https://github.com/obiwan314/onair/blob/master/images/IMG_6416.jpg?raw=true "Picture of Finished product")
+![Open Case](https://github.com/obiwan314/onair/blob/master/images/IMG_6405.jpg?raw=true "Inside view showing wiring.")
+![Inside Front View](https://github.com/obiwan314/onair/blob/master/images/IMG_6406.jpg?raw=true "Inside front of case showing red plastic filter")
 
 The Neo Pixel Strip is connected as shown below:
 
