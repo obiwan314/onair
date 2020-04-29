@@ -8,8 +8,8 @@
 #include "Adafruit_MQTT_Client.h"
 
 /************************* WiFi Access Point *********************************/
-#define WLAN_SSID       "RH10A30"
-#define WLAN_PASS       "yavinendoralderaan"
+#define WLAN_SSID       "YourAccessPoint"
+#define WLAN_PASS       "YourPassword"
 
 #define REFRESH 20  // seconds between refresh
 #define LED 13

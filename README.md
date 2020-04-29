@@ -23,3 +23,5 @@ The grey wire is canabalized IDE cable ribbon wire and all the components are ju
 The OSX client requires the building and installing of a command line tool [do-not-disturb-cli](https://travis-ci.org/sindresorhus/do-not-disturb-cli)
 
 It also requires the installtion of [Mosquito MQTT](https://mosquitto.org/) so that the mosquitto_pub command is available.
+
+The arduino script must be modified to add your wifi credentials and MQTT server.
