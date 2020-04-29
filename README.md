@@ -13,10 +13,10 @@ It also requires a [Neopixel Strip](https://www.adafruit.com/product/1376?length
 
 The Neo Pixel Strip is connected as shown below:
 
-Feather          Neopixel Strip
-GND ------------- GND
-USB ------------- 5V+
-13  ------------- Din
+    Feather          Neopixel Strip
+    GND ------------- GND
+    USB ------------- 5V+
+    13  ------------- Din
 
 The grey wire is canabalized IDE cable ribbon wire and all the components are just hot glued down inside the case.
 
