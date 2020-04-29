@@ -25,3 +25,6 @@ The OSX client requires the building and installing of a command line tool [do-n
 It also requires the installtion of [Mosquito MQTT](https://mosquitto.org/) so that the mosquitto_pub command is available.
 
 The arduino script must be modified to add your wifi credentials and MQTT server.
+
+Here is a video demonstration
+![Demo Video](https://github.com/obiwan314/onair/blob/master/images/IMG_6417.MOV?raw=true "Demo Video")
